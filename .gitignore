@@ -1,26 +1,4 @@
 <<<<<<< HEAD
 /Debug
 /localAreaNetworkCheckTool/Debug
-/*.opensdf
-/*.sdf
-/*.sln
-/*.suo
-/localAreaNetworkCheckTool/*.vcxproj
-/localAreaNetworkCheckTool/*.user
-/localAreaNetworkCheckTool/*.filters
-/ipch/localareanetworkchecktool-536eff0f/*.ipch
-=======
-# Compiled Object files
-*.slo
-*.lo
-*.o
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
 >>>>>>> 08e457a9430ad730486ba8b6e84122d04f38f4a6
