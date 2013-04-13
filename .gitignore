@@ -1,0 +1,10 @@
+/Debug
+/localAreaNetworkCheckTool/Debug
+/*.opensdf
+/*.sdf
+/*.sln
+/*.suo
+/localAreaNetworkCheckTool/*.vcxproj
+/localAreaNetworkCheckTool/*.user
+/localAreaNetworkCheckTool/*.filters
+/ipch/localareanetworkchecktool-536eff0f/*.ipch
